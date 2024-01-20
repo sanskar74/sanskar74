@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/@sanskarsahu25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sanskarsahu25" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanskar sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanskar sahu" height="30" width="40" /></a>
-<a href="https://fb.com/sanskar sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanskar sahu" height="30" width="40" /></a>
+<a href="https://fb.com/sanskar.sahu.16940/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanskar sahu" height="30" width="40" /></a>
 <a href="https://instagram.com/shaaan_sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaaan_sahu" height="30" width="40" /></a>
 </p>
 
